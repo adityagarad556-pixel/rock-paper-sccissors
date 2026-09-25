@@ -2,6 +2,9 @@
 
 A simple Rock Paper Scissors game built using HTML, CSS, and JavaScript.
 
+## go to the website
+https://adityagarad556-pixel.github.io/rock-paper-sccissors/
+
 ## Project Overview
 
 This project is a browser-based implementation of the classic Rock Paper Scissors game. The user can choose Rock, Paper, or Scissors, and the computer randomly selects its move. The game then determines the winner and updates the score.
